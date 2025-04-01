@@ -25,31 +25,31 @@ This is a simple web server built using **Express.js**. It has two routes: one f
 
 1. **Clone the repository**:
 
-    \`\`\`bash
+    ```bash
     git clone https://github.com/rabumaabraham/simple-express-server.git
-    \`\`\`
+    ```
 
 2. **Navigate into the project directory**:
 
-    \`\`\`bash
+    ```bash
     cd simple-express-server
-    \`\`\`
+    ```
 
 3. **Install dependencies**:
 
     Run the following command to install the necessary dependencies:
 
-    \`\`\`bash
+    ```bash
     npm install express
-    \`\`\`
+    ```
 
 4. **Run the server**:
 
     After installation, run the server using the following command:
 
-    \`\`\`bash
+    ```bash
     node server.js
-    \`\`\`
+    ```
 
     The server will start on **http://localhost:3000**.
 

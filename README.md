@@ -26,7 +26,7 @@ This is a simple web server built using **Express.js**. It has two routes: one f
 1. **Clone the repository**:
 
     \`\`\`bash
-    git clone https://github.com/yourusername/simple-express-server.git
+    git clone https://github.com/rabumaabraham/simple-express-server.git
     \`\`\`
 
 2. **Navigate into the project directory**:
